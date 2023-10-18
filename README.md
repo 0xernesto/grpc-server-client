@@ -1,4 +1,4 @@
-# GRPC Test
+# GRPC Server Client
 
 This is an example of a simple gRPC server and client that can be tested locally or in a deployed environment, such as [Amazon ECS with Fargate instances](https://aws.amazon.com/blogs/opensource/containerize-and-deploy-a-grpc-application-on-aws-fargate/).
 
